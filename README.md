@@ -25,5 +25,9 @@ Ruby is a dynamic, interpreted, reflective, object-oriented, general-purpose pro
 * int.odd? returns whether the integer is odd or not
 * everythin in ruby is an object that's why we can call functions on that object
 * rand(limit) to generate a random number between 0 to limit excluding limit.
-* 
+* var.to_i to convert float to an integer or string to an integer.
+* .to_s for converting into string.
+* printing a string multiple times -- string*times
+* If we want to print something multiple times -- 20.times {puts "hi"} 
+* Method will return the last line automatically
 
