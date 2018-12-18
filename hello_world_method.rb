@@ -4,3 +4,4 @@ def say_hello
   
 end
 #have to put end when the function ends
+say_hello #calling function
