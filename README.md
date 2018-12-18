@@ -20,4 +20,10 @@ Ruby is a dynamic, interpreted, reflective, object-oriented, general-purpose pro
 * "string".empty? to check if the string is empty or not
 * "".nil? will evaluate to false because nothing in a string is treated as a string in case of nil method.
 * .empty is more convenient to use.
+* .to_f for converting integer to float
+* we can use .0 after the integer for integer division
+* int.odd? returns whether the integer is odd or not
+* everythin in ruby is an object that's why we can call functions on that object
+* rand(limit) to generate a random number between 0 to limit excluding limit.
+* 
 
