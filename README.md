@@ -5,7 +5,7 @@ Ruby is a dynamic, interpreted, reflective, object-oriented, general-purpose pro
 
 * No arguments no brackets at the definition or calling.
 * String can be single or double quotes.
-* "+"" operator works for string concatanation.
+* "+" operator works for string concatanation.
 * var.class shows the variables from which class.
 * var.methods will show what methods are applicable to the variable.
 * to check if a string is null or not --> string.nil?
@@ -15,5 +15,9 @@ Ruby is a dynamic, interpreted, reflective, object-oriented, general-purpose pro
 * String interpolation doesn't work with single quotes
 * If we use single quotes then it escape the var part by showing a escape character while printing
 * single quote within single quote doesn't work.One pair should be different
-* If we want to escape the error then we have to use a escape sequence before the single quote -- 'My name is \'Rahul''
+* If we want to escape the error then we have to use a escape sequence before the single quote -- 'My name is "\"'Rahul''
+* string.length for printing length of the string
+* "string".empty? to check if the string is empty or not
+* "".nil? will evaluate to false because nothing in a string is treated as a string in case of nil method.
+* .empty is more convenient to use.
 
