@@ -30,4 +30,27 @@ Ruby is a dynamic, interpreted, reflective, object-oriented, general-purpose pro
 * printing a string multiple times -- string*times
 * If we want to print something multiple times -- 20.times {puts "hi"} 
 * Method will return the last line automatically
+* if elsif else end for branching.
+* Array need not have same type of elements.It can have string integer or array as elements at a same array.
+* puts arr to print all elements of an array.
+* arr.empty? to check if the array is empty or not.
+* arr.include(element) to check if the element is included in the array or not.
+* arr.reverse to reverse the array.
+* arr.reverse! to update the array in reverse order
+* arr.shuffle to shuffle all the elements
+* (0..25).to_a to convert elements from 0 to 25 into an array.
+* (0..99).to_a.shuffle to get a random array containg elements from 0 to 100.
+* arr << x to add x into the array. 
+* arr.push(element) to add element into the array.
+* arr.unshift(element) to add element in the begining of an array.
+* arr.pop to remove the last element from the array.
+* arr.uniq to show all the unique elements in the array.
+* arr.each {|i| puts i} to access each elements and print.Inside the bracket we can write code to manipulate values.
+* for var in arr   -- In this way also we can iterate.
+* .capitalize method capitalize the first letter.
+* arr.select {|num| num.odd?}  to get all the odd numbers from the array.
+* select works on boolean values if it evaluates to true then it show the element.
+* arr.each {|num| puts num if num.odd?} prints odd number using each method.
+* arr.join to join all the elements.
+* arr.join(' ') join by a space.
 
