@@ -23,6 +23,11 @@ loop do
   
   puts "What city are you looking for?"
   city = gets.chomp
+  if $dial_book.include?(city)
+    puts "Entered right"
+  else
+    puts "Not in dictionary"
+  end
   lookup(city)
   
 end
