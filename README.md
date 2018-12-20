@@ -63,5 +63,5 @@ Ruby is a dynamic, interpreted, reflective, object-oriented, general-purpose pro
 * my_hash.delete(:key) to delete the entry associated with the key. 
 * my_hash.each {|k,v| puts v} to iterate and print all the values.
 * my_hash.select {|k,v| v.odd?} to select the odd values.
-* 
+* [Ruby Style Guide](https://github.com/rubocop-hq/ruby-style-guide#source-code-layout)
 
