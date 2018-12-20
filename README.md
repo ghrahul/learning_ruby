@@ -53,4 +53,15 @@ Ruby is a dynamic, interpreted, reflective, object-oriented, general-purpose pro
 * arr.each {|num| puts num if num.odd?} prints odd number using each method.
 * arr.join to join all the elements.
 * arr.join(' ') join by a space.
+* hash is a data structure with key value pair.Key can be symbol string and value can be anything.
+* => this is hash rocket.
+* my_hash['key'] to get the value associated with the key.
+* my_hash = {'key'=>'value'} here key is string.
+* my_hash = {a:2 , b:3 ,c: 3} here key is symbol.
+* my_hash[:c] to access value of c.
+* my_hash[:d] = 7 to add new element or my_hash[:name] = "Rahul"
+* my_hash.delete(:key) to delete the entry associated with the key. 
+* my_hash.each {|k,v| puts v} to iterate and print all the values.
+* my_hash.select {|k,v| v.odd?} to select the odd values.
+* 
 
