@@ -64,4 +64,10 @@ Ruby is a dynamic, interpreted, reflective, object-oriented, general-purpose pro
 * my_hash.each {|k,v| puts v} to iterate and print all the values.
 * my_hash.select {|k,v| v.odd?} to select the odd values.
 * [Ruby Style Guide](https://github.com/rubocop-hq/ruby-style-guide#source-code-layout)
+* The first letter of the class should be capitalized.
+* Class.ancestors to see the superclass 
+* initialize method is called every time when the object is created.
+* "@" signifies an instance variable.
+* attr_accessor:name for getter and setter.
+* 
 
