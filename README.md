@@ -70,5 +70,5 @@ Ruby is a dynamic, interpreted, reflective, object-oriented, general-purpose pro
 * "@" signifies an instance variable.
 * attr_accessor:name for getter and setter.
 * "<" for inhereting superclass.
-* 
+
 
