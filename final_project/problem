@@ -1,0 +1,4 @@
+1)Reads user information that is provided
+2)Reads permissionsfrom a json file
+3)creates new user with the assigned permission
+4)saves users in new users listing files.If file doesn't exist yet it creates one. 
