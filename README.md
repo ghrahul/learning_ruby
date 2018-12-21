@@ -54,7 +54,7 @@ Ruby is a dynamic, interpreted, reflective, object-oriented, general-purpose pro
 * arr.join to join all the elements.
 * arr.join(' ') join by a space.
 * hash is a data structure with key value pair.Key can be symbol string and value can be anything.
-* => this is hash rocket.
+* "=>" this is hash rocket.
 * my_hash['key'] to get the value associated with the key.
 * my_hash = {'key'=>'value'} here key is string.
 * my_hash = {a:2 , b:3 ,c: 3} here key is symbol.
@@ -69,5 +69,6 @@ Ruby is a dynamic, interpreted, reflective, object-oriented, general-purpose pro
 * initialize method is called every time when the object is created.
 * "@" signifies an instance variable.
 * attr_accessor:name for getter and setter.
+* "<" for inhereting superclass.
 * 
 
